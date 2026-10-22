@@ -1,4 +1,6 @@
-# Plantilla · Práctica 2 · Tema 2 · Entornos de Desarrollo (DAW)
+# Ejemplo terminado · Práctica 2 · Tema 2 · Entornos de Desarrollo (DAW)
+
+> Este repositorio muestra cómo queda el entorno al terminar la práctica. Ábrelo con **Code → Codespaces → Create codespace on main**, espera a que se construya y pulsa `Ctrl/Cmd + Shift + B`.
 
 Este repositorio es el punto de partida de la práctica **«Tu entorno de desarrollo como código»**.
 Sigue el enunciado paso a paso: **no tienes que programar nada**.
